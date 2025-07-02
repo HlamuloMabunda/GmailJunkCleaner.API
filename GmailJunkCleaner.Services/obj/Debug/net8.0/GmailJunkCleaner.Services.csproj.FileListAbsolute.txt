@@ -1,0 +1,15 @@
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Services\bin\Debug\net8.0\GmailJunkCleaner.Services.deps.json
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Services\bin\Debug\net8.0\GmailJunkCleaner.Services.dll
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Services\bin\Debug\net8.0\GmailJunkCleaner.Services.pdb
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Services\bin\Debug\net8.0\GmailJunkCleaner.Domain.dll
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Services\bin\Debug\net8.0\GmailJunkCleaner.Domain.pdb
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Services\obj\Debug\net8.0\GmailJunkCleaner.Services.csproj.AssemblyReference.cache
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Services\obj\Debug\net8.0\GmailJunkCleaner.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Services\obj\Debug\net8.0\GmailJunkCleaner.Services.AssemblyInfoInputs.cache
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Services\obj\Debug\net8.0\GmailJunkCleaner.Services.AssemblyInfo.cs
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Services\obj\Debug\net8.0\GmailJunkCleaner.Services.csproj.CoreCompileInputs.cache
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Services\obj\Debug\net8.0\GmailJun.C6621D77.Up2Date
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Services\obj\Debug\net8.0\GmailJunkCleaner.Services.dll
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Services\obj\Debug\net8.0\refint\GmailJunkCleaner.Services.dll
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Services\obj\Debug\net8.0\GmailJunkCleaner.Services.pdb
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Services\obj\Debug\net8.0\ref\GmailJunkCleaner.Services.dll

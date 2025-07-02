@@ -1,0 +1,15 @@
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Infrastructure\bin\Debug\net8.0\GmailJunkCleaner.Infrastructure.deps.json
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Infrastructure\bin\Debug\net8.0\GmailJunkCleaner.Infrastructure.dll
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Infrastructure\bin\Debug\net8.0\GmailJunkCleaner.Infrastructure.pdb
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Infrastructure\bin\Debug\net8.0\GmailJunkCleaner.Domain.dll
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Infrastructure\bin\Debug\net8.0\GmailJunkCleaner.Domain.pdb
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Infrastructure\obj\Debug\net8.0\GmailJunkCleaner.Infrastructure.csproj.AssemblyReference.cache
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Infrastructure\obj\Debug\net8.0\GmailJunkCleaner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Infrastructure\obj\Debug\net8.0\GmailJunkCleaner.Infrastructure.AssemblyInfoInputs.cache
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Infrastructure\obj\Debug\net8.0\GmailJunkCleaner.Infrastructure.AssemblyInfo.cs
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Infrastructure\obj\Debug\net8.0\GmailJunkCleaner.Infrastructure.csproj.CoreCompileInputs.cache
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Infrastructure\obj\Debug\net8.0\GmailJun.D857AB30.Up2Date
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Infrastructure\obj\Debug\net8.0\GmailJunkCleaner.Infrastructure.dll
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Infrastructure\obj\Debug\net8.0\refint\GmailJunkCleaner.Infrastructure.dll
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Infrastructure\obj\Debug\net8.0\GmailJunkCleaner.Infrastructure.pdb
+C:\C# APPS\GmailJunkCleaner.API\GmailJunkCleaner.Infrastructure\obj\Debug\net8.0\ref\GmailJunkCleaner.Infrastructure.dll

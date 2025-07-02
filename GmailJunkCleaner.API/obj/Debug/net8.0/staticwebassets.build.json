@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qTeXkZ93SMbf5GMByEAXg6Z2ZtPjNRetSC45B9LYpLQ=",
+  "Source": "GmailJunkCleaner.API",
+  "BasePath": "_content/GmailJunkCleaner.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jc5+xYwPANo=",
+  "success": true,
+  "projectFilePath": "C:\\Applications\\GmailJunkCleaner.API\\GmailJunkCleaner.Services\\GmailJunkCleaner.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hlamulo.Mabunda\\.nuget\\packages\\google.apis\\1.69.0\\google.apis.1.69.0.nupkg.sha512",
+    "C:\\Users\\Hlamulo.Mabunda\\.nuget\\packages\\google.apis.auth\\1.69.0\\google.apis.auth.1.69.0.nupkg.sha512",
+    "C:\\Users\\Hlamulo.Mabunda\\.nuget\\packages\\google.apis.core\\1.69.0\\google.apis.core.1.69.0.nupkg.sha512",
+    "C:\\Users\\Hlamulo.Mabunda\\.nuget\\packages\\google.apis.gmail.v1\\1.69.0.3742\\google.apis.gmail.v1.1.69.0.3742.nupkg.sha512",
+    "C:\\Users\\Hlamulo.Mabunda\\.nuget\\packages\\google.apis.oauth2.v2\\1.68.0.1869\\google.apis.oauth2.v2.1.68.0.1869.nupkg.sha512",
+    "C:\\Users\\Hlamulo.Mabunda\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Hlamulo.Mabunda\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Hlamulo.Mabunda\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
