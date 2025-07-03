@@ -22,7 +22,7 @@ namespace GmailJunkCleaner.Infrastructure.Repositories
         {
             UserCredential credential;
 
-            using (var stream = new FileStream("C:\\C# APPS\\GmailJunkCleaner.API\\GmailJunkCleaner.API\\client_secret_filename.apps.googleusercontent.com.json",FileMode.Open,FileAccess.Read))
+            using (var stream = new FileStream("C:\\C# APPS\\GmailJunkCleaner.API\\GmailJunkCleaner.API\\clientsecretfilename.apps.googleusercontent.com.json",FileMode.Open,FileAccess.Read))
             {
                 string credPath = "token.json";
                 credential = await GoogleWebAuthorizationBroker.AuthorizeAsync(
